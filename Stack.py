@@ -1,4 +1,3 @@
-
 class Stack():
     def __init__(self):
         self.items = []
@@ -14,4 +13,3 @@ class Stack():
 
     def get_stack(self):
         return self.items
-
